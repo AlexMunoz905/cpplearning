@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\alexm\OneDrive\Desktop\cpplearning\cpplearning\main.cpp(53,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexm\OneDrive\Desktop\cpplearning\cpplearning\main.cpp(29,12): warning C4101: 'sum': unreferenced local variable
+C:\Users\alexm\OneDrive\Desktop\cpplearning\cpplearning\main.cpp(29,9): warning C4101: 'y': unreferenced local variable
+C:\Users\alexm\OneDrive\Desktop\cpplearning\cpplearning\main.cpp(29,6): warning C4101: 'x': unreferenced local variable
+  cpplearning.vcxproj -> C:\Users\alexm\OneDrive\Desktop\cpplearning\Debug\cpplearning.exe
